@@ -1,0 +1,1 @@
+//b) Los procesos se ejecutan de manera concurrente, es decir, no tienen ningun orden. Si ejecutas cualquier archivo varias veces, el orden es aleatorio. El orden se impone conforme los procesos llegan a la CPU.
